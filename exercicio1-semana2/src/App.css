@@ -3,7 +3,9 @@
   margin:5px;
   font-family: 'Indie Flower', cursive;
 }
-
+body{
+  background-color:grey;
+}
 button {
   margin: 10px;
   font-size: calc(8px + 2.5vmin);

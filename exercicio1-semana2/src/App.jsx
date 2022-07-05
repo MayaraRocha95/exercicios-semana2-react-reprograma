@@ -7,7 +7,7 @@ function App() {
 
   return (
  <div className="app">
-  <h1>Ultimos Filmes que assisti</h1>
+  <h1>10 Últimos Filmes que assisti</h1>
   {filmes.map(item => {
     return (
       <div key={item.id}>
@@ -18,8 +18,8 @@ function App() {
       </div>
     )
   })}
-  <input placeholder="Digite seu nome" onChange={ e => console.log(e.target.value)} />
-  <button onClick={console.log('estou clicando')}>Clique aqui</button>
+  <input placeholder="Digite um filme" onChange={ e => console.log(e.target.value)} />
+  <button onClick={console.log('estou clicando')}>Enviar</button>
   
  </div>
   )
