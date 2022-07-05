@@ -1,7 +1,7 @@
 # Exercicios Semana2 React Reprograma
 Exercicios da 2ª semana de React na Reprograma 
 
-
+### Descrição dos exercicios feito em aula
 # 🚀 Vambora pra o conteúdo da aula 2?
 
 > ⚠️ Após essa aula você estará preparada com a base conceitual de React e uso de React Hooks.  O objetivo específico da aula é facilitar o entendimento do conceito de estado e introdução ao React Hooks.
