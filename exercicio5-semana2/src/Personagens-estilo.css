@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=DM+Sans:ital@1&family=Gentium+Plus:ital@1&family=Graduate&family=Indie+Flower&family=Kanit&family=Montserrat:wght@600&family=Nuosu+SIL&family=Source+Serif+Pro:ital,wght@1,600&display=swap');
+*{
+  margin: 8px;
+  font-family: 'Graduate', cursive;
+}
+body{
+
+    background-image: url('https://c.wallhere.com/photos/da/ee/1920x1080_px_Adult_Swim_Cartoon_Rick_And_Morty_Rick_Sanchez_TV-1482893.jpg!d')
+}
+.logo{
+  position: relative;
+}
+.cards{
+  display: inline-block;
+  
+}
+h2{
+
+  text-align:center;
+  color:black;
+  font-size:19px;
+}
+.personagens {
+ background-color:rgb(170, 232, 107,0.1);
+ border-radius: 8px;
+}
+.status {
+  display:flex;
+}
