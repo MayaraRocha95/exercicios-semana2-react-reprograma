@@ -232,6 +232,8 @@ useEffect(() => {
 | Recurso | Descrição |
 | --- | --- |
 | `API` |  Chegou o grande momento de consumir uma api externa e renderizar os dados na tela, vamos usar o useEffect e useState para isso. |
+
+
 ![personagensrickandmorty](https://user-images.githubusercontent.com/98711190/177661201-b2acb548-ab3d-4595-baf1-ebb62a322c00.gif)
 
 
