@@ -242,6 +242,7 @@ useEffect(() => {
 | `Busca` | Vamos consumir uma api externa, mostrar lista na tela e através de uma busca, vamos mudar o estado apenas mostrando na tela o item digitado. |
 
 
+![busca](https://user-images.githubusercontent.com/98711190/177893670-e6134d5d-2055-43f2-8f6a-aeaef8d55524.gif)
 
 
 <br>
